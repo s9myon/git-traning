@@ -1,2 +1,3 @@
 git commit
 create new branch
+git merge --no-ff
