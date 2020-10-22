@@ -4,3 +4,4 @@ git merge --no-ff
 git merge (с конфликтами)
 git pull
 git pull (с конфликтами)
+git cherry-pick
