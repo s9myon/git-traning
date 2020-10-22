@@ -2,3 +2,4 @@ git commit
 create new branch
 git merge --no-ff
 git merge (с конфликтами)
+git pull
