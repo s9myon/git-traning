@@ -5,3 +5,4 @@ git merge (с конфликтами)
 git pull
 git pull (с конфликтами)
 # добавил какие-то измменения для rebase
+git rebase
