@@ -5,3 +5,4 @@ git merge (с конфликтами)
 git pull
 git pull (с конфликтами)
 "Сейчас произойдёт cherry-pick"
+git cherry-pick
